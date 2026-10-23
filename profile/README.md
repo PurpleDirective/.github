@@ -6,7 +6,7 @@ We build software for clinical research sites and for anyone whose documents hav
 
 ### Products
 
-| | |
+| Product | What it does |
 |---|---|
 | **[Nexrial](https://nexrial.com)** | Clinical trial management for independent research sites. Studies, subjects, visits and regulatory binders in one place, with an append-only audit trail and e-signatures designed and tested against 21 CFR Part 11. |
 | **[PurpleSign](https://purplesign.app)** | Get it signed. Keep the proof. Signers finish on any phone without an account, and every signed copy comes with a certificate. |
@@ -15,7 +15,7 @@ We build software for clinical research sites and for anyone whose documents hav
 
 ### Open source
 
-| | |
+| Project | What it does |
 |---|---|
 | **[Quell](https://github.com/PurpleDirective/quell)** | Quiet the web. A browser extension that removes forced AI answers, cookie banners and pop-ups you didn't ask for. Free, no account, no tracking. |
 | **[quillpdf-mcp](https://github.com/PurpleDirective/quillpdf-mcp)** | Local-first PDF tools as an MCP server and CLI. Your files never leave your machine. |
