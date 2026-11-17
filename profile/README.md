@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://purpledirective.com"><img src="banner.png" alt="Purple Directive. The Standard. Records that hold up." width="100%"></a>
+  <a href="https://purpledirective.com"><img src="banner.png" alt="Purple Directive. Software and hands-on help for clinical research." width="100%"></a>
 </p>
 
 We build software for clinical research sites and for anyone whose documents have to hold up later. Every product keeps a record you can show an auditor, and none of them asks you to trust a black box.
